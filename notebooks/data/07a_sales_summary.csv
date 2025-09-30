@@ -1,0 +1,5 @@
+product,customer_type,quantity,revenue,num_orders
+Widget A,retail,475.0,12112.5,3
+Widget B,wholesale,475.0,14250.0,3
+Widget C,retail,125.0,5625.0,2
+Widget C,wholesale,90.0,4050.0,1
